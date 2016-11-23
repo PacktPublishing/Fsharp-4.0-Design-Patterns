@@ -30,7 +30,7 @@ Software and Hardware List
 
 
 
-##Related Haskell Products:
+##Related F# Products:
 * [Learning F# Functional Data Structures and Algorithms](https://www.packtpub.com/application-development/learning-f-functional-data-structures-and-algorithms?utm_source=github&utm_campaign=9781783558476&utm_medium=repository)
 * [F# for Machine Learning Essentials](https://www.packtpub.com/big-data-and-business-intelligence/f-machine-learning?utm_source=github&utm_campaign=9781783989348&utm_medium=repository)
 * [F# 4.0 Programming Cookbook](https://www.packtpub.com/application-development/f-40-programming-cookbook?utm_source=github&utm_campaign=9781786468369&utm_medium=repository)
