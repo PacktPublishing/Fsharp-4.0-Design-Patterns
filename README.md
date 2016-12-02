@@ -26,7 +26,8 @@ doit (MyImpl())
 
 ```
 
-Software and Hardware List
+##Software and Hardware List
+
 | Chapter  | Software required                             | OS required         | 
 | -------- | --------------------------------------------- | ------------------- |
 | 1 to 13  | LINQPad (http://www.linqpad.net/)             | Windows/ MAC/ Linux |
