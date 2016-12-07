@@ -1,6 +1,9 @@
 #F# 4.0 Design Patterns
 This is the code repository for [F# 4.0 Design Patterns](https://www.packtpub.com/application-development/f-40-design-patterns?utm_source=github&utm_campaign=9781785884726&utm_medium=repository) By Packt. It contains all the supporting project files necessary to work through the book from start to finish.
 
+#About the Book
+Following design patterns is a well-known approach to writing better programs that captures and reuses high-level abstractions that are common in many applications. This book will encourage you to develop an idiomatic F# coding skillset by fully embracing the functional-first F# paradigm. It will also help you harness this powerful instrument to write succinct, bug-free, and cross-platform code.
+
 ##Instructions and Navigation
 All of the code is organized into folders. Each folder starts with number followed by the application name. For example, Chapter02.
 
