@@ -33,7 +33,7 @@ doit (MyImpl())
 
 | Chapter  | Software required                             | OS required         | 
 | -------- | --------------------------------------------- | ------------------- |
-| 1 to 13  | LINQPad (http://www.linqpad.net/)             | Windows/ MAC/ Linux |
+| 1 to 13  | LINQPad (http://www.linqpad.net/)             | Windows/ MAC OS     |
 | 1 to 13  | .NET Fiddle website https://dotnetfiddle.net/ | Windows/ MAC/ Linux |
 
 
