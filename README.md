@@ -1,3 +1,8 @@
+## $5 Tech Unlocked 2021!
+[Buy and download this product for only $5 on PacktPub.com](https://www.packtpub.com/)
+-----
+*The $5 campaign         runs from __December 15th 2020__ to __January 13th 2021.__*
+
 #F# 4.0 Design Patterns
 This is the code repository for [F# 4.0 Design Patterns](https://www.packtpub.com/application-development/f-40-design-patterns?utm_source=github&utm_campaign=9781785884726&utm_medium=repository) By Packt. It contains all the supporting project files necessary to work through the book from start to finish.
 
